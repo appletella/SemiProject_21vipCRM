@@ -3,9 +3,7 @@
 <br>
 
 ### :books: 기술 스택
--
-
-
+<hr>
 - Java 11<br>
 - SpringBoot<br>
 - Spring Data JPA, Querydsl<br>
