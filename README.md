@@ -2,6 +2,7 @@
 > CRM을 바탕으로 한 고객관리 및 바우처 생성 프로그램<br>개발 기간 : 2023.11~12
 <br>
 ### :books: 기술 스택
+<br>
 - Java 11
 - SpringBoot
 - Spring Data JPA, Querydsl
@@ -10,6 +11,7 @@
 - AWS(Light sail)
 - tomcat9 배포
 <br>
+
 ### :information_source: 주요기능 
 <hr>
 
