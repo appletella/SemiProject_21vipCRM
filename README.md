@@ -3,7 +3,6 @@
 <br>
 
 ### :books: 기술 스택
-<hr>
 - Java 11<br>
 - SpringBoot<br>
 - Spring Data JPA, Querydsl<br>
@@ -14,7 +13,6 @@
 <br>
 
 ### :information_source: 주요기능 
-<hr>
 
 - 계정 관련
     - 회원가입, 로그인, 로그아웃
