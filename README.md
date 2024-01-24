@@ -1,15 +1,18 @@
 # SemiProject_21vipCRM
 > CRM을 바탕으로 한 고객관리 및 바우처 생성 프로그램<br>개발 기간 : 2023.11~12
 <br>
+
 ### :books: 기술 스택
+
 <br>
-- Java 11
-- SpringBoot
-- Spring Data JPA, Querydsl
-- Spring Security
-- Oracle
-- AWS(Light sail)
-- tomcat9 배포
+
+- Java 11<br>
+- SpringBoot<br>
+- Spring Data JPA, Querydsl<br>
+- Spring Security<br>
+- Oracle<br>
+- AWS(Light sail)<br>
+- tomcat9 배포<br>
 <br>
 
 ### :information_source: 주요기능 
