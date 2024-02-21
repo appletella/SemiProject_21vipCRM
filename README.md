@@ -21,7 +21,7 @@
 ## api 명세서
 
 ## 화면
-<img src="https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/2468cce0-bde5-4afa-8f83-d4f565208ae0">
+<img src="https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/2468cce0-bde5-4afa-8f83-d4f565208ae0](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/b3d547b5-351b-429c-9e06-c0805820d0ed">
 
 ## :speaker: 프로젝트 전체 기능 
 
