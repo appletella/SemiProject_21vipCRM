@@ -18,13 +18,6 @@
 - Apache Tomcat
 
 
-## api 명세서
-
-## 화면
-- 회원가입
-
-![ezgif-6-baee3ca32a](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/b3d547b5-351b-429c-9e06-c0805820d0ed)
-
 ## :speaker: 프로젝트 전체 기능 
 
 ### 계정 관련
@@ -52,3 +45,9 @@
 ### 마이페이지
 - 개인정보 수정
 - 개인 일정 CRUD
+
+
+## 화면
+- 회원가입
+
+![ezgif-6-baee3ca32a](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/b3d547b5-351b-429c-9e06-c0805820d0ed)
