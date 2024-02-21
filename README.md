@@ -10,7 +10,7 @@
 - Spring Security<br>
 - Oracle<br>
 - AWS(Light sail)<br>
-- tomcat9 배포<br>
+- Apache Tomcat<br>
 <br>
 
 # :information_source: 주요기능 
