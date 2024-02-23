@@ -24,7 +24,7 @@
 - 그 외: 깃허브 관리
 
 
-## :speaker: 프로젝트 전체 기능 
+## :speaker: 프로젝트 주요 기능 
 
 ### 계정 관련
 - 회원가입, 로그인, 로그아웃
@@ -57,3 +57,7 @@
 - 회원가입
 
 ![ezgif-6-baee3ca32a](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/b3d547b5-351b-429c-9e06-c0805820d0ed)
+
+- 사원관리
+
+![스크린샷 2024-02-23 151605](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/a2338af7-d370-4d9c-b289-ae61fd63e072)
