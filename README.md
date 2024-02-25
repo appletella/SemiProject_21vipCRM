@@ -23,6 +23,13 @@
 - 백엔드: DB설계, Spring Security를 이용한 페이지 접근 권한, 로그인 설정, 회원가입 api(+아이디 중복 검사), ID/PW 찾기 api(비밀번호는 임시 비밀번호를 이메일로 발송), QueryDSL을 이용한 동적쿼리로 사원 관리 api, 검색된 사원 리스트를 엑셀로 내보내기
 - 그 외: 깃허브 관리, AWS LightSail을 통한 서버 배포
 
+## 유스케이스
+![image](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/91bb450c-b851-432c-9f29-91283f31e8bc)
+![image](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/31131080-2b26-4cf5-89c9-066fd58e760c)
+![image](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/26621d15-c657-4d15-b352-023570f07a0c)
+![image](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/bde45901-d8ee-4633-b64f-c51f4d1d196f)
+
+
 
 ## :speaker: 프로젝트 주요 기능 
 
