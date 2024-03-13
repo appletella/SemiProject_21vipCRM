@@ -18,10 +18,46 @@
 - AWS(Light sail)
 - Apache Tomcat
 
-## 내가 맡은 역할
-- 프론트: 메인페이지, 로그인, 회원가입, ID/PW찾기, 사원관리(관리자)
-- 백엔드: DB설계, Spring Security를 이용한 페이지 접근 권한, 로그인 설정, 회원가입 api(+아이디 중복 검사), ID/PW 찾기 api(비밀번호는 임시 비밀번호를 이메일로 발송), QueryDSL을 이용한 동적쿼리로 사원 관리 api, 검색된 사원 리스트를 엑셀로 내보내기
-- 그 외: 깃허브 관리, AWS LightSail을 통한 서버 배포
+## 본인 기여도
+
+<h3>백엔드</h3> 
+
+- DB설계 35%
+- 로그인 100%
+  - Spring Security 사용
+- 회원가입 100%
+  - 아이디 중복 검사  
+- ID/PW 찾기 100%
+  - 비밀번호는 임시 비밀번호를 이메일로 발송
+- 사원 관리 api 100%
+  - 사원 검색에 QueryDSL 이용
+  - 검색된 사원 리스트를 엑셀로 내보내기
+
+<h3>프론트엔드</h3>
+
+- 메인페이지 100%
+- 로그인&회원가입 100%
+
+  ![ezgif-6-baee3ca32a](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/b3d547b5-351b-429c-9e06-c0805820d0ed)
+<br>
+
+- ID/PW찾기 100%
+  - 검색된 ID를 리스트로 표시
+- 사원관리(관리자) 100%
+  - 사원 검색 결과를 페이징으로 정리
+![스크린샷 2024-02-23 151605](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/a2338af7-d370-4d9c-b289-ae61fd63e072)
+<br>
+  
+<h3>그 외</h3> 
+
+- 깃허브 관리 95%
+- AWS LightSail을 통한 서버 배포 50%
+
+<br>
+
+## ERD
+![프로젝트](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/07e4c5c7-eff4-492c-9510-abc9479d3a83)
+<br>
 
 ## 유스케이스
 ![image](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/91bb450c-b851-432c-9f29-91283f31e8bc)
@@ -59,12 +95,3 @@
 - 개인정보 수정
 - 개인 일정 CRUD
 
-
-## 화면
-- 회원가입
-
-![ezgif-6-baee3ca32a](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/b3d547b5-351b-429c-9e06-c0805820d0ed)
-
-- 사원관리
-
-![스크린샷 2024-02-23 151605](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/a2338af7-d370-4d9c-b289-ae61fd63e072)
