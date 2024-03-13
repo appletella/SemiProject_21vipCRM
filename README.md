@@ -23,10 +23,11 @@
 <h3>백엔드</h3> 
 
 - DB설계 35%
-- 로그인 100%
-  - Spring Security 사용
+- Spring Security 100%
+  - 로그인 설계
+  - Role에 따른 페이지 접근 권한 부여
 - 회원가입 100%
-  - 아이디 중복 검사  
+  - 아이디 중복 검사
 - ID/PW 찾기 100%
   - 비밀번호는 임시 비밀번호를 이메일로 발송
 - 사원 관리 api 100%
@@ -36,13 +37,19 @@
 <h3>프론트엔드</h3>
 
 - 메인페이지 100%
+  - 로그인할 경우 권한에 따라 표시되는 메뉴가 달라짐
+  ![image](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/d023b323-7cfc-4dbb-867a-d6898e6c46db)
+  <br>
 - 로그인&회원가입 100%
-
+  ![image](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/677828f0-2019-48b8-9c41-558a031d0291)
   ![ezgif-6-baee3ca32a](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/b3d547b5-351b-429c-9e06-c0805820d0ed)
 <br>
 
 - ID/PW찾기 100%
-  - 검색된 ID를 리스트로 표시
+  
+ ![image](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/484060a6-c23d-44d7-b008-ab3c1e9fec13)
+<br>
+<br>
 - 사원관리(관리자) 100%
   - 사원 검색 결과를 페이징으로 정리
 ![스크린샷 2024-02-23 151605](https://github.com/appletella/SemiProject_21vipCRM/assets/147576555/a2338af7-d370-4d9c-b289-ae61fd63e072)
